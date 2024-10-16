@@ -1,0 +1,7 @@
+Below are the deployment links of this Project
+
+GitHub Pages- https://deepak8260.github.io/Tribute-html-project-by-Kumar/
+
+Netlify - https://kumarai-tribute-html.netlify.app/
+
+Versel - https://kumarai-tribute-html-project.vercel.app/
